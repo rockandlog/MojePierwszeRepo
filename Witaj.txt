@@ -1,0 +1,4 @@
+using System.IO;
+
+string sciezka = "Witaj.txt";
+string tekst = "Witaj w pierwszym repozytorium";
