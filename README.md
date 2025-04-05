@@ -1,0 +1,1 @@
+Plik SaperKod zawiera kod w języku C#, który uruchamia grę Saper. Aby uruchomić kod, należy utworzyć nową aplikację konsolową w języku C# w programie Visual Studio, przekopiować kod z pliku i uruchomić program.
